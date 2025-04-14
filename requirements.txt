@@ -1,0 +1,7 @@
+streamlit
+langchain_groq
+langchain_community
+langchain
+faiss-gpu  # Note: This might require additional setup depending on your environment
+sentence-transformers
+dotenv
