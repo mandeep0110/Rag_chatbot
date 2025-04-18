@@ -1,7 +1,9 @@
 streamlit
-langchain_groq
-langchain_community
-langchain
-faiss-gpu  # Note: This might require additional setup depending on your environment
+langchain-groq
+langchain-community
+langchain-core
+huggingface-hub
 sentence-transformers
+pypdf
+faiss-cpu
 python-dotenv
